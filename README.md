@@ -1,6 +1,6 @@
-	<br>
+<br>
 	<img src="https://github-readme-stats.vercel.app/api?username=5mentes&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
+<br>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5mentes&layout=compact&count_private=false&langs_count=8&hide_border=true&theme=dark">
 </p>
 
